@@ -1,7 +1,3 @@
-# 💫 About Me:
-Generate a GitHub profile README bio for me in the style of GPRM (GitHub Profile ReadMe Generator). Use these sections with short, casual sentences and emojis at the start of each line:<br>🔭 I’m currently working on<br>🤝 I’m looking to collaborate on<br>👐 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>Make it friendly, simple, and professional. Fill in with realistic made-up examples if I don’t provide details. Keep each section to one sentence or two at most.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im.erikk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Erik Mirashaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erikmirashaj10@gmail.com) 
 
